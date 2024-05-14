@@ -181,17 +181,18 @@ fa fa8(a[7],b[7],c7,sum[7],cout);
 
 endmodule
 
-## OUTPUT:
+# OUTPUT:
+# logic gates:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/e50a7f47-179d-4961-a8fa-0183d85bf1d5)
-## HALF ADDER:
+# HALF ADDER:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/bdd078aa-42b1-4881-9edc-252d9a6a3594)
-## FULL ADDER:
+# FULL ADDER:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/f66d79b0-9974-4079-b6cf-861f917b287a)
-## HALF SUBTRACTOR:
+# HALF SUBTRACTOR:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/bb7f36b3-73f8-43ea-b38c-bb6e4a2eb85e
-## FULL SUBTRACTOR:
+# FULL SUBTRACTOR:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/490a65d3-975c-4776-a5b7-081080ec120e)
-## 8 BIT RIPPLE CARRY ADDER:
+# 8 BIT RIPPLE CARRY ADDER:
 ![image](https://github.com/212221060203/VLSI-LAB-EXP-1/assets/166364913/700098c8-621d-458a-b009-66c7311907cf)
-## RESULT:
+# RESULT:
 Thus the simulation and synthesis of Logic Gates,Adders and Subtractors using vivado has been sucessfully executed and verified .
